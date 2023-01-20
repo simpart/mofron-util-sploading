@@ -1,6 +1,6 @@
 {
   "name": "mofron-util-sploading",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "spinner loading util function for mofron",
   "main": "index.js",
   "scripts": {
