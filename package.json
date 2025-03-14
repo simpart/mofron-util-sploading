@@ -1,6 +1,6 @@
 {
   "name": "mofron-util-sploading",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "spinner loading util function for mofron",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "mofron-comp-sploading": "",
-    "mofron-effect-fadepack": ""
+    "mofron-effect-fadepack": "",
+    "mofron-effect-rotate": ""
   },
   "repository": {
     "type": "git",
